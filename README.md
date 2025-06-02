@@ -20,18 +20,18 @@ Built with **Streamlit**, **scikit-learn**, and **CountVectorizer**, this app of
 ## 🚀 Live Demo
 
 Try the app on Streamlit Cloud:  
-👉 [https://your-streamlit-url.streamlit.app](https://your-streamlit-url.streamlit.app)  
+👉 [https://spam-classifier-appl.streamlit.app/](https://spam-classifier-appl.streamlit.app/)  
 
 ---
 
 ## 📁 Project Structure
 
 spam-classifier-app/ <br>
-├── app.py # Streamlit app
-├── spam_model.pkl # Trained Naive Bayes model
-├── vectorizer.pkl # Fitted CountVectorizer
-├── requirements.txt # Required Python packages
-└── README.md # Project documentation
+├── app.py # Streamlit app <br>
+├── spam_model.pkl # Trained Naive Bayes model <br>
+├── vectorizer.pkl # Fitted CountVectorizer <br>
+├── requirements.txt # Required Python packages <br>
+└── README.md # Project documentation <br>
 
 
 ---
@@ -99,16 +99,18 @@ Input:
 Output:
 ✅ Not Spam
 
-🧑‍💻 Author
+🧑‍💻 Author <br>
 Mevin Manuel
-📧 Mevinmnl123@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/mevin-manuel-b3b670275/
-🔗 GitHub: https://github.com/MevinManuel
+<br>
+<br>
+📧 Mevinmnl123@gmail.com <br>
+🔗 LinkedIn: https://www.linkedin.com/in/mevin-manuel-b3b670275/ <br>
+🔗 GitHub: https://github.com/MevinManuel <br>
 
-📄 License
+📄 License <br>
 This project is open-sourced under the MIT License.
 
-📢 Feedback
+📢 Feedback <br>
 If you liked this project or have suggestions to improve it, feel free to ⭐️ star the repo or open an issue!
 
 And also if you've made it this far, wow, you're either really interested or really bored. Either way, thanks for sticking around! 😄
