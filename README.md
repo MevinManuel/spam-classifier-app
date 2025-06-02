@@ -26,7 +26,7 @@ Try the app on Streamlit Cloud:
 
 ## 📁 Project Structure
 
-spam-classifier-app/
+spam-classifier-app/ <br>
 ├── app.py # Streamlit app
 ├── spam_model.pkl # Trained Naive Bayes model
 ├── vectorizer.pkl # Fitted CountVectorizer
