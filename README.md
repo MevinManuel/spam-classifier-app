@@ -4,6 +4,7 @@ A beginner-friendly **machine learning web application** that classifies SMS mes
 
 Built with **Streamlit**, **scikit-learn**, and **CountVectorizer**, this app offers a simple interface to test spam prediction in real time.
 
+![Power BI Dashboard for SMS Spam Detection App](powebi_dashboard.jpg)
 ---
 
 ## 🧠 Features
