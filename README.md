@@ -1,5 +1,6 @@
 # 📬 SMS Spam Classifier – Streamlit Web App
 
+
 A beginner-friendly **machine learning web application** that classifies SMS messages as **spam** or **not spam** using natural language processing (NLP) and a **Naive Bayes classifier**.
 
 Built with **Streamlit**, **scikit-learn**, and **CountVectorizer**, this app offers a simple interface to test spam prediction in real time.
